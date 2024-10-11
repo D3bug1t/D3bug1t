@@ -8,7 +8,7 @@ I’ve always been fascinated by **Mathematics**, especially its applications in
 This repository documents my learning, projects, coding experiences, and research as I progress through my academic and professional journey. Whether you're here to collaborate or simply explore, I hope you find something useful!
 
 ### 💻 What I’ve Been Working On:
-I started coding in my **first year at IITK**, and since then, my focus has shifted toward mastering **Data Structures** and **Algorithms**. I'm actively involved in coding competitions and have been improving steadily. You can find me on **[Codeforces](https://codeforces.com/profile/your_codeforces_id)**, where I am currently rated as a **Specialist** with a score of **1426**. Here’s a breakdown of my coding journey:
+I started coding in my **first year at IITK**, and since then, my focus has shifted toward mastering **Data Structures** and **Algorithms**. I'm actively involved in coding competitions and have been improving steadily. You can find me on **[Codeforces](https://codeforces.com/profile/Damn_NA)**, where I am currently rated as a **Specialist** with a score of **1426**. Here’s a breakdown of my coding journey:
 - **Data Structures**: Arrays, Trees, Linked Lists, Graphs, Heaps
 - **Algorithms**: Dynamic Programming, Greedy Algorithms, Graph Traversals, Sorting & Searching
 
@@ -20,7 +20,7 @@ Alongside coding, I am a huge fan of **speed maths**! I regularly practice on pl
 ### 📈 Quantguide Scores:
 Here’s a snapshot of my progress over time on Quantguide:
 
-![Quantguide Scores Graph](link_to_graph_image)
+![Quantguide Scores Graph](Quant_G_Graph.png)
 
 ### 🔬 Research and Projects:
 Over the past two years, I’ve had the opportunity to work on several **research projects** focused on **Machine Learning**, **non-traditional algorithms**, and **optimization techniques**. During this time, I collaborated with:
