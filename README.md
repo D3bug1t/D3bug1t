@@ -28,7 +28,8 @@ Over the past two years, I’ve had the opportunity to work on several **researc
 - **Dr. Harsh Vazirani** from **UNSW, Australia**
 
 These collaborations led to the publication of two research papers:
-1. **[Research Paper 1](link_to_paper_1)**: (Brief description)
+1. **[Research Paper 1](AU120.pdf)**: This research leverages **UAVs** and **CNNs** to automate the detection of crop diseases in apple trees, tackling issues like **class imbalance** and **image processing**. Our model achieved an **80.9% accuracy** on training data and offers a scalable solution for **automated plant disease diagnosis** in agriculture.
+
 2. **[Research Paper 2](link_to_paper_2)**: (Brief description)
 
 These experiences have shaped my understanding of advanced algorithms and machine learning models, and I continue to apply this knowledge to my ongoing projects.
