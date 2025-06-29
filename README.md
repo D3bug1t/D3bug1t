@@ -1,6 +1,6 @@
 # Hi, I'm Sanskaar Srivastava 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a **B.Tech in Chemical Engineering** along with a **BS in Statistics and Data Science** at the **Indian Institute of Technology, Kanpur** (IITK). My academic interests span across **Mathematics**, **Data Science**, and **Algorithms**, and this space serves as a journal for my journey towards mastering these fields and securing a role in **Quantitative Finance (Quant)**, **Software Engineering (SWE)**, or **Machine Learning (ML)**.
+Welcome to my GitHub profile! I'm currently pursuing a **B.Tech in Chemical Engineering** along with a **BS in Statistics and Data Science** at the **Indian Institute of Technology, Kanpur** (IITK). My academic interests span across **Mathematics**, **Data Science**, and **Algorithms**, and this space serves as a journal for my journey towards mastering these fields and securing a role in **Quantitative Finance (Quant)**, **Software Engineering (SWE)**, or **Machine Learning (ML)** and Consulting!
 
 ### 🎓 A Bit About My Background:
 I’ve always been fascinated by **Mathematics**, especially its applications in real-world problem-solving. This interest led me to dive deeper into **Data Science**, where I’ve explored everything from **statistical modeling** to **optimization techniques**. My dual degree program has given me a unique perspective on solving problems, both from an engineering standpoint and through data-driven insights.
